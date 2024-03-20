@@ -19,7 +19,7 @@
 
     Lower_layer {
       bindings = <
-        &kp ESCAPE &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp NUMBER_4 &kp NUMBER_5 &kp NUMBER_6 &kp NUMBER_7 &kp NUMBER_8 &kp NUMBER_9 &kp NUMBER_0 &kp BACKSPACE &bt BT_CLR &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_SEL 5 &kp LEFT_ARROW &kp DOWN_ARROW &kp UP_ARROW &kp RIGHT_ARROW &trans &trans &kp LEFT_SHIFT &bt BT_CLR &kp TAB &trans &trans &trans &trans &trans &trans &trans &trans &kp ESCAPE &kp LEFT_GUI &trans &kp RETURN &kp SPACE &to BASE &kp RIGHT_ALT
+        &kp ESCAPE &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp NUMBER_4 &kp NUMBER_5 &kp NUMBER_6 &kp NUMBER_7 &kp NUMBER_8 &kp NUMBER_9 &kp NUMBER_0 &kp BACKSPACE &bt BT_CLR &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_SEL 5 &kp LEFT_ARROW &kp DOWN_ARROW &kp UP_ARROW &kp RIGHT_ARROW &trans &trans &kp LEFT_SHIFT &bt BT_CLR_ALL &kp TAB &trans &trans &trans &trans &trans &trans &trans &trans &kp ESCAPE &kp LEFT_GUI &trans &kp RETURN &kp SPACE &to BASE &kp RIGHT_ALT
       >;
     };
 
