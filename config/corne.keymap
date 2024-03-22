@@ -13,19 +13,7 @@
 };
 
 / {
-    combos {
-        compatible = "zmk,combos";
-
-        combo_left_par {
-            bindings = <&kp LEFT_PARENTHESIS>;
-            key-positions = <12 13>;
-        };
-
-        combo_right_par {
-            bindings = <&kp RIGHT_PARENTHESIS>;
-            key-positions = <16 17>;
-        };
-    };
+    combos { compatible = "zmk,combos"; };
 
     keymap {
         compatible = "zmk,keymap";
