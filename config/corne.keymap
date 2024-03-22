@@ -27,9 +27,9 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&mt ESC Q  &kp W  &kp F  &kp R                 &kp P             &kp G                  &kp J                    &kp L  &kp U          &mt DEL Y               &kp A  &kp R
+&mt ESC Q  &kp W  &kp F  &kp P                 &kp G             &kp J                  &kp L                    &kp U  &kp Y          &kp BSPC                &kp A  &kp R
 &kp S      &kp T  &kp D  &kp H                 &kp N             &kp E                  &kp I                    &kp O  &kp Z          &kp X                   &kp C  &kp V
-&kp B      &kp K  &kp M  &mt SEMICOLON PERIOD  &mt COLON PERIOD  &mt BACKSLASH SLASH    &mt LEFT_SHIFT LEFT_WIN  &mo 1  &mt TAB SPACE  &mt LEFT_CONTROL ENTER  &mo 2  &mt LEFT_ALT BACKSPACE
+&kp B      &kp K  &kp M  &mt SEMICOLON PERIOD  &mt COLON PERIOD  &mt BACKSLASH SLASH    &mt LEFT_SHIFT LEFT_WIN  &mo 1  &mt TAB SPACE  &mt LEFT_CONTROL ENTER  &mo 2  &mt LEFT_ALT DELETE
             >;
         };
 
